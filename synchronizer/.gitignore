@@ -1,0 +1,6 @@
+/target/
+!synchronizer-0.0.1-SNAPSHOT-jfx.jar
+.settings
+.classpath
+.checkstyle
+.project
